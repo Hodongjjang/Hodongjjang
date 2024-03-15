@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Hodongjjang/Hodongjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,13 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 노력하는 프론트엔드 개발자 장호동입니다. </div> 
     </div>
     <div style="text-align: left;">
-   ### 📚 Main Skills
+    <br>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+
+
+
+   📚 Main Skills
 <div display="flex">
    <h4>Front</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -53,6 +59,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
