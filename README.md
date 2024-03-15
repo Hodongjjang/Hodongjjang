@@ -61,11 +61,12 @@ Here are some ideas to get you started:
 <br>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://goofy-scribe-738.notion.site/4775912f2e94473388391e905caf95e7?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Hodong-d76855a55ce74a439fd122b1d154314e?pvs=4"> </a>
-         <a href=mailto:yutio1243@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yutio1243@gmail.com"> </a>
+🧑‍💻 Contact me
+<div style="text-align: left;">
+    <br> 
+    <div style="text-align: left;"> 
+         <a href=https://goofy-scribe-738.notion.site/4775912f2e94473388391e905caf95e7?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jewel-conifer-8d8.notion.site/05960677f67c4ceea7db6b82dcb9401d?pvs=4"> </a>
+         <a href=mailto:joehyunwoo080@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yutio1243@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    
+</div>
