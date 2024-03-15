@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.notion.so/Hi-I-m-Hodong-d76855a55ce74a439fd122b1d154314e?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Hodong-d76855a55ce74a439fd122b1d154314e?pvs=4"> </a>
+    <div style="text-align: left;"> <a href=https://goofy-scribe-738.notion.site/4775912f2e94473388391e905caf95e7?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Hodong-d76855a55ce74a439fd122b1d154314e?pvs=4"> </a>
          <a href=mailto:yutio1243@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yutio1243@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
