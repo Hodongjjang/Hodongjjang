@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe8686,100:400bfe&height=120&text=Hi,%20I'm%20Hodong%20👋&animation=&fontColor=ffffff&fontSize=50" />
+<div align= "left">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe8686,100:400bfe&height=120&width=1800&text=Hi,%20I'm%20Hodong%20👋&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
