@@ -46,9 +46,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
 ### 🔨 Tools
 <div display="flex">
@@ -59,6 +56,8 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
 🧑‍💻 Contact me
